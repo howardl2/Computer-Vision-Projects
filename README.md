@@ -1,3 +1,3 @@
 # Computer-Vision-Projects
 
-This project takes two pictures and morphs the first picture into the second picture.
+This repository contains some of my computer vision projects created while attending the Universeity of California, Irvine.
